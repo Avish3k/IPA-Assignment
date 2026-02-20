@@ -12,3 +12,4 @@ def evod(n):
     print("no of even are",e)
     print("no of odd are",o)
 evod(845236)
+evod(7856205412)
