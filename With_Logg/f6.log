@@ -1,0 +1,8 @@
+2026-02-20 22:56:55,485 - INFO - The unique list is: [1, 3, 5, 2, 6, 4]
+2026-02-20 22:58:21,454 -INFO -The unique list is: [1, 3, 5, 2, 6, 4]
+2026-02-20 22:59:28,753 -INFO -Removing duplicate
+2026-02-20 22:59:28,754 -INFO -The unique list is: [1, 3, 5, 2, 6, 4]
+2026-02-20 22:59:55,478 -INFO -Removing duplicate
+2026-02-20 22:59:55,478 -INFO -The unique list is: [1, 3, 5, 2, 6, 4]
+2026-02-20 23:01:44,686 -INFO -Removing duplicate
+2026-02-20 23:02:23,318 -INFO -Removing duplicate
